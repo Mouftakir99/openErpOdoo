@@ -2,6 +2,8 @@
 
 namespace Simbigo\OpenERP;
 
+use SimpleXMLElement;
+
 /**
  * Class XmlRpcClient
  * @package Simbigo\OpenERP
